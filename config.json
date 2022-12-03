@@ -1,10 +1,10 @@
 { 
-  "ChatOwner": "6281348106274@s.whatsapp.net",
-  "ownerNumber": "6281348106274@s.whatsapp.net",
-  "botName": "DaniBot",
-  "ownerName": "Dani Maker",
+  "ChatOwner": "6281280020649@s.whatsapp.net",
+  "ownerNumber": "6281280020649@s.whatsapp.net",
+  "botName": "XeyrixBot",
+  "ownerName": "Xeyrix Maker",
   "sessionName": "session",
-  "footer": "© DaniBot 2022",
+  "footer": "© XeyrixBot 2022",
   "api_lolkey": "SadTeams",
   "group":{
   "judul": "Forum Bot WhatsApp",
